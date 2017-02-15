@@ -7,9 +7,9 @@
 
 # THANKS
 
-    <name>
+    Hansel Perez
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, AngularJS
